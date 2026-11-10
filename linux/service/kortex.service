@@ -1,0 +1,7 @@
+[Unit]
+Description=Kortex sensor service
+
+[Service]
+Type=dbus
+BusName=local.Kortex
+ExecStart=%h/.local/bin/kortex-service

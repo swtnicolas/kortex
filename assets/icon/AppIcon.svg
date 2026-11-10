@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="1024" height="1024" role="img" aria-label="Kortex: chip de memoria sobre fondo mostaza">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#E8B84A"/><stop offset="1" stop-color="#C68A1C"/></linearGradient></defs>
+<rect x="10" y="8" width="100" height="100" rx="23" fill="url(#bg)"/>
+<g fill="#fff">
+<rect x="45" y="29" width="6" height="10" rx="2"/><rect x="57" y="29" width="6" height="10" rx="2"/><rect x="69" y="29" width="6" height="10" rx="2"/>
+<rect x="45" y="81" width="6" height="10" rx="2"/><rect x="57" y="81" width="6" height="10" rx="2"/><rect x="69" y="81" width="6" height="10" rx="2"/>
+<rect x="29" y="45" width="10" height="6" rx="2"/><rect x="29" y="57" width="10" height="6" rx="2"/><rect x="29" y="69" width="10" height="6" rx="2"/>
+<rect x="81" y="45" width="10" height="6" rx="2"/><rect x="81" y="57" width="10" height="6" rx="2"/><rect x="81" y="69" width="10" height="6" rx="2"/>
+</g>
+<rect x="38" y="38" width="44" height="44" rx="10" fill="#fff"/>
+<rect x="50" y="50" width="20" height="20" rx="5" fill="#2E2A20"/>
+</svg>

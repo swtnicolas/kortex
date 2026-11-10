@@ -1,0 +1,12 @@
+{
+    "KPlugin": {
+        "Category": "System Information",
+        "Description": "RAM, CPU, GPU y temperatura en el panel",
+        "Icon": "local.kortex",
+        "Id": "local.kortex",
+        "Name": "Kortex",
+        "Version": "1.0.0"
+    },
+    "KPackageStructure": "Plasma/Applet",
+    "X-Plasma-API-Minimum-Version": "6.0"
+}
